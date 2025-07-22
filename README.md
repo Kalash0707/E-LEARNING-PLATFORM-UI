@@ -28,3 +28,4 @@ In summary, the LearnX eLearning platform is a well-rounded front-end project th
 
 ##OUTPUT:
 
+<img width="1357" height="586" alt="Image" src="https://github.com/user-attachments/assets/140e113a-d133-4ab7-a702-b936aaaed721" />
